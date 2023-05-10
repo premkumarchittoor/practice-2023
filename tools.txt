@@ -1,1 +1,3 @@
 This our first text file in git practice.
+
+This is the second update in file.
